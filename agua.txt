@@ -1,7 +1,4 @@
-El
-agua
-es
-escencial 
+
 el agua es azul
 su composicion es h2O
 sirenas del mar
